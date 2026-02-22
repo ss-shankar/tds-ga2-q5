@@ -3,6 +3,28 @@
     "email": "21f2001400@ds.study.iitm.ac.in",
     "version": "f73069ef"
   },
+    "aggregations": {
+        "books": {
+          "count": 4,
+          "inventoryValue": 101925.86
+        },
+        "sports": {
+          "count": 4,
+          "inventoryValue": 84777.88
+        },
+        "clothing": {
+          "count": 3,
+          "inventoryValue": 24725.27
+        },
+        "home": {
+          "count": 5,
+          "inventoryValue": 99909.66
+        },
+        "electronics": {
+          "count": 3,
+          "inventoryValue": 36503.34
+        }
+      },
    "products": [
     {
       "id": "prod-f73069ef-001",
